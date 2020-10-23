@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d785e8df-5761-4ac5-967a-658c4ce10c92" name="Default Changelist" comment="Add gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
@@ -85,9 +88,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603438420737">
+    <state x="364" y="91" key="CommitChangelistDialog2" timestamp="1603439653927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.1.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603438420737" />
+    <state x="364" y="91" key="CommitChangelistDialog2/-1920.1.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603439653927" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603439658308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.1.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603439658308" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603439365319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.1.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603439365319" />
   </component>
 </project>
