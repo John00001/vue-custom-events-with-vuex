@@ -31,7 +31,6 @@ new Vue({
 	},
 	methods: {
 		addNote(event) {
-			debugger;
 			this.notes.push(event.note);
 			this.timestamps.push(event.timestamp);
 		}
