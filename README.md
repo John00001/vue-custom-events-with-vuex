@@ -1,6 +1,4 @@
-# vue-custom-events
-* Import VUE from CDN to play around with some custom events
-
-* Creat an Event Bus in Vue
+# vue-custom-events-with-vuex
+* Use Vuex for State Management
 
 * No dependencies install is needed
